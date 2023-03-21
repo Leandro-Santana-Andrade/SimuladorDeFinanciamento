@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(4,4,45);
+    color: white;
+    font: 11pt arial;
+    /*text-align: center;*/
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(43, 42, 42);
+}
